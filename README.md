@@ -28,7 +28,7 @@ git clone https://github.com/SKBER-CYBER/FILE-CRACK
 
 cd FILE-CRACK
 
-python Crack.py
+python free.py
 
 
 
